@@ -37,7 +37,9 @@ Clonar el repositorio:
 
 Copiar código
 git clone https://github.com/JeffersonChautaR/Biogenesys
+
 Explorar los notebooks: Ejecutar los notebooks Jupyter para reproducir el análisis.
+
 Interactuar con los informes: Abrir los archivos de Power BI para explorar las visualizaciones.
 
 Contribuciones: Las contribuciones son bienvenidas. Si encuentras algún error o deseas agregar nuevas funcionalidades, por favor abre un issue.
